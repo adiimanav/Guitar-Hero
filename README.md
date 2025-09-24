@@ -1,6 +1,7 @@
 # Guitar Hero
 
 ## Usage
+Unzip samples.zip
 
 Setup (requires node.js):
 
